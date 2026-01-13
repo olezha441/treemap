@@ -1,5 +1,5 @@
-import bidimap.BidiMapImpl;
-import tree.MyTreeMap;
+import com.yourusername.anotherlib.bidimap.BidiMapImpl;
+import com.yourusername.superlib.treemap.MyTreeMap;
 
 public class Main {
     public static void main(String[] args) {
